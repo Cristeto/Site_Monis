@@ -1,0 +1,29 @@
+html {
+  background-color: black;
+}
+
+body {
+  background-color: black;
+}
+
+#projet {
+margin-top: 10%;
+}
+
+img {
+  width: 70%;
+  height: auto;
+  margin: 0.1rem;
+}
+
+#info {
+  margin-top: 2.5rem;
+}
+
+p {
+  font-family: 'Montserrat', sans-serif;
+  color: white;
+  font-weight: 300;
+  letter-spacing: 0.2rem;
+  text-align: center;
+}
